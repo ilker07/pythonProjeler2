@@ -1,0 +1,9 @@
+Asallık Kontrolü.txt
+bluetooth araba.txt
+dosya.txt
+joystick ve servo.txt
+kumanda.txt
+metin.txt
+notlar.txt
+ses sensörü.txt
+ses2.txt

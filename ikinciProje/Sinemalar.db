@@ -1,0 +1,1 @@
+SELECT Film_Ismi, Tur,Sure FROM Sinemalar ORDER BY Sure
